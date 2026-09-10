@@ -1,0 +1,6 @@
+[submodule "moveit/moveit_resources"]
+	path = moveit/moveit_resources
+	url = https://github.com/ayushgnv/moveit_resources.git
+[submodule "moveit/topic_based_ros2_control"]
+	path = moveit/topic_based_ros2_control
+	url = https://github.com/PickNikRobotics/topic_based_ros2_control.git
